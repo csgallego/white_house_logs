@@ -33,3 +33,12 @@ June5=POTUS[paste(POTUS$time$mon+1,POTUS$time$mday)=="6 5",]
 #Let’s create a table of June 5
 table(June5$UIN)
 
+#U01358 and U01402 are big events, they are not related to the NSA revelations. Let’s at all the other UIN and see who they correspond to.
+subset(June5,UIN=="U01627")
+
+#U01627 is the band for the event mention earlier, it is said in the description
+
+#I am checking if the UIN are given in increasing order
+POTUS$UIN[order(POTUS$time)] 
+unique(POTUS$UIN[order(POTUS$time)]) 
+sort(table(visits$UIN))
