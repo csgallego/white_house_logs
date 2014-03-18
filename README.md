@@ -8,7 +8,7 @@ I focused on who visited POTUS during the NSA revelations (June, July, August 21
 Timeline of NSA Revelation
 http://america.aljazeera.com/articles/multimedia/timeline-edward-snowden-revelations.html
 
-June 5 : Guardian Announces leak of Classified NSA documents June 6: PRISM
+June 5 : Guardian Announces leak of Classified NSA documents June 6: PRISM<br/>
 June 7: American cyber-attack list
 June 9: Whistle-blower reveals identity
 June12: Snowden explains his motivations
