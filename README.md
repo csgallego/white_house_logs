@@ -1,4 +1,4 @@
-white_house_logs
+White House Logs
 ================
 
 Analysis of the White House logs
